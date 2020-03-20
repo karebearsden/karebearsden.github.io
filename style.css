@@ -92,11 +92,13 @@ p{
 	display:flex;
 	justify-content:center;
 	align-items:center;
+  height:auto;
 }
 
 .imgHolder{
   display:flex;
   align-item:center;
+  height:auto;
 }
 
 .blog-post{
