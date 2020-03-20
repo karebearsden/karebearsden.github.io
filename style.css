@@ -121,17 +121,29 @@ h1{
 }
 
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
-  #main{
-    margin-left:6%;
-    margin-right:6%;
-  }
-  p{
-    font-size:24px;
-  }
-  h1{
+  #header{
     font-size:40px;
   }
+  .paw{
+    height:35px;
+    width:35px;
+  }
+  #main{
+    margin:0px;
+  }
+  .b-wrapper{
+    display:inline-block;
+  }
+  .box{
+    min-width:0px;
+  }
+  p{
+    font-size:18px;
+  }
+  h1{
+    font-size:30px;
+  }
   date{
-    font-size:20px;
+    font-size:14px;
   }
 }
