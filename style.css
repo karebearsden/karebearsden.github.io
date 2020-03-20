@@ -62,7 +62,6 @@ p{
 
 .box{
   min-width:350px;
-  min-height:350px;
   border: 1px solid black;
   flex:1;
   margin:15px;
