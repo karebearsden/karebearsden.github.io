@@ -120,7 +120,7 @@ h1{
   padding:0;
 }
 
-@media only screen and (max-width: 812px) {
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
   #main{
     margin-left:6%;
     margin-right:6%;
