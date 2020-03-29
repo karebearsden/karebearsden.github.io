@@ -36,6 +36,14 @@ h1{
   z-index:-1;
 }
 
+#main-index{
+  margin-left: 12%;
+  margin-right:12%;
+  height:100%;
+  top:0;
+  z-index:9999;
+}
+
 #main{
   margin-left: 20%;
   margin-right:20%;
@@ -128,6 +136,10 @@ h1{
 @media only screen and (max-device-width: 425px) {
   #header{
     font-size:40px;
+  }
+  .center-image{
+    margin-left:0%;
+    margin-right:0%;
   }
   .paw{
     height:35px;
