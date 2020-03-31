@@ -7,6 +7,7 @@ img{
   width:100%;
   height:auto;
   align-self:center;
+  image-orientation: from-image;
 }
 
 p{
