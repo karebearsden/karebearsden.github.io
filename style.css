@@ -84,6 +84,7 @@ h1{
   overflow:hidden;
   display:flex;
   position:relative;
+  background-color:white;
 }
 
 .box:hover .overlay{
